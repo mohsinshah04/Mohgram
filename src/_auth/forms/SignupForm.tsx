@@ -29,6 +29,7 @@ const SignupForm = () => {
 
     console.log(newUser)
   }
+  
 
   return (
     <Form {...form}>
